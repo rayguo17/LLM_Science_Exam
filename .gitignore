@@ -1,0 +1,5 @@
+wiki_dataset/wiki_parquet/
+wiki_dataset/enwiki-20231101-pages-articles-multistream-index_clean.txt
+wiki_dataset/enwiki-20231101-pages-articles-multistream-index.txt.bz2
+wiki_dataset/enwiki-20231101-pages-articles-multistream.xml.bz2
+wiki_dataset/test.db
